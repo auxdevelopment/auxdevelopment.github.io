@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.fcef919a2a4128ae82a92854714e517c.js"
+  "/precache-manifest.020a2bb7f545827689baa981c7112ae2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "gratitude-reporter-app"});
